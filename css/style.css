@@ -1,0 +1,52 @@
+html {
+    font-size: 62.5%;
+    /* 1.6rem = 16px */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--light-gray);
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+    background-color: var(--white);
+}
+
+.card .img-qrcode {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.card h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-align: center;
+    width: 100%;
+    padding-block: 20px;
+    color: var(--dark-blue);
+}
+
+.card p {
+    width: 200px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: center;
+    color: var(--blue-gray);
+    padding-bottom: 10px;
+}
+
+.attribution {
+    padding: 20px;
+}
