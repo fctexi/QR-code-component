@@ -27,4 +27,4 @@ I also learned how to create various types of CSS such as reset.css, style.css, 
 
 ### Links
 
-- Solution URL: [QR code component solution]()
+- Solution URL: [QR code component solution](https://fctexi.github.io/QR-code-component/)
